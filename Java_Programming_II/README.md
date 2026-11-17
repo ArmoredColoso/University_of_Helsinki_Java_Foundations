@@ -13,4 +13,4 @@ This repository contains my personal solutions, code exercises, and notes from t
 * `part12-part14/` - Generics, data structures, and application logic
 
 ---
-*Note: This repository is part of my public learning log. For my production application work, they are gonna be uploaded to a different repository soon.*
+*Note: This repository is part of my public learning log. For my production application work, they are gonna be uploaded to a different repository soon.
